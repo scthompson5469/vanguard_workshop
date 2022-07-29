@@ -1,0 +1,15 @@
+Screen1 As screen:
+
+    Form1 As form:
+        X: =244
+        Y: =76
+        ZIndex: =1
+
+    Label1 As label:
+        Text: |-
+            ="Test app
+            "
+        X: =460
+        Y: =104
+        ZIndex: =2
+
